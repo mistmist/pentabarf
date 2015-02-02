@@ -18,6 +18,14 @@ INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('applicati
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.sun.xml.impress', 'en', 'OpenOffice Presentation');
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.sun.xml.writer', 'de', 'OpenOffice Dokument');
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.sun.xml.writer', 'en', 'OpenOffice document');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.text', 'de', 'ODF Textdokument');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.text', 'en', 'ODF Text Document');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.spreadsheet', 'de', 'ODF Tabellendokument');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.spreadsheet', 'en', 'ODF Spreadsheet');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.presentation', 'de', 'ODF Präsentation');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.presentation', 'en', 'ODF Presentation');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.graphics', 'de', 'ODF Zeichnung');
+INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/vnd.oasis.opendocument.graphics', 'en', 'ODF Drawing');
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/x-bittorrent', 'de', 'Bittorrent');
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/x-bittorrent', 'en', 'Bittorrent');
 INSERT INTO mime_type_localized (mime_type, translated, name) VALUES ('application/x-bzip2', 'de', 'BZ2-komprimierte Datei');

@@ -10,6 +10,10 @@ INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/rt
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.ms-powerpoint', 'ppt', false);
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.sun.xml.impress', 'sxi', false);
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.sun.xml.writer', 'sxw', false);
+INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.oasis.opendocument.text', 'odt', false);
+INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.oasis.opendocument.spreadsheet', 'ods', false);
+INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.oasis.opendocument.presentation', 'odp', false);
+INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/vnd.oasis.opendocument.graphics', 'odg', false);
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/x-bittorrent', 'torrent', false);
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/x-bzip2', 'bz2', false);
 INSERT INTO mime_type (mime_type, file_extension, image) VALUES ('application/x-gzip', 'gz', false);
